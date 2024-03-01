@@ -1,2 +1,4 @@
 Exemplo de um codigo v1.
 Uma nova linha de comando no projeto v2.
+Estou em fase de adaptção com o git e o github v3.
+Assimilando aos poucos atraves de um passo a passo v4.
