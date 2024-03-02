@@ -1,4 +1,5 @@
 Exemplo de um codigo v1.
+<<<<<<< HEAD
 Subindo codigo para nuvem.
 1- git add "nome do arquivo"
 2- git status: visualizar o arquivo incluso.
@@ -7,3 +8,7 @@ Subindo codigo para nuvem.
 5- git commit -m "descrição do que foi incluso"
 6- git push --> Comando que envia o seu projeto p/ nuvem.
 
+=======
+Uma nova linha de comando no projeto v2.
+Estou em fase de adaptção com o git e o github v3.
+>>>>>>> 3c388efb1ca9488940327fedf6d543d40ec91f83
