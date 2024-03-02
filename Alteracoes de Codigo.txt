@@ -11,4 +11,3 @@ Subindo codigo para nuvem.
 =======
 Uma nova linha de comando no projeto v2.
 Estou em fase de adaptção com o git e o github v3.
->>>>>>> 3c388efb1ca9488940327fedf6d543d40ec91f83
