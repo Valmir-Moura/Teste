@@ -1,1 +1,9 @@
 Exemplo de um codigo v1.
+Subindo codigo para nuvem.
+1- git add "nome do arquivo"
+2- git status: visualizar o arquivo incluso.
+3- git add . Comando p/ incluir mais de um arquivo.
+4- git add Comando p/ incluir um unico arquivo.
+5- git commit -m "descrição do que foi incluso"
+6- git push --> Comando que envia o seu projeto p/ nuvem.
+
